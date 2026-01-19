@@ -1,5 +1,3 @@
-# Summary
-
 AI Project: EcoCompass – Smart Personal Carbon Footprint Tracker
 Idea in a Nutshell
 EcoCompass is an AI-powered mobile and web application that helps individuals track, analyze, and reduce their personal carbon footprint in real time by integrating data from daily activities, purchases, travel, and home energy use, offering personalized sustainability recommendations.
@@ -128,7 +126,9 @@ Open Source Libraries: scikit-learn, TensorFlow, Hugging Face Transformers, Pand
 
 APIs: Plaid, Google Maps, Electricity Maps.
 
-Summary
 EcoCompass aims to bridge the gap between climate awareness and daily action, empowering individuals with AI to make sustainability simple, measurable, and rewarding.
+
+Summary
+EcoCompass is an AI-driven application that helps individuals track and reduce their personal carbon footprint by integrating data from daily travel, purchases, home energy use, and diet. Using machine learning—including NLP for activity logging, computer vision for food recognition, and time-series forecasting for footprint predictions—the app provides personalized, actionable recommendations to encourage sustainable habits. It addresses the need for real-time, user-friendly carbon accountability while acknowledging limitations in data accuracy and privacy. Future expansions include gamification, corporate partnerships, and policy-informing data analytics. The project draws on open-source libraries and public emission databases to make climate action accessible and engaging.
 
 
