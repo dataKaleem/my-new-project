@@ -128,6 +128,7 @@ Open Source Libraries: scikit-learn, TensorFlow, Hugging Face Transformers, Pand
 
 APIs: Plaid, Google Maps, Electricity Maps.
 
+"## Summary"
 EcoCompass aims to bridge the gap between climate awareness and daily action, empowering individuals with AI to make sustainability simple, measurable, and rewarding.
 
 
