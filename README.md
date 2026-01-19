@@ -1,4 +1,4 @@
-# my-new-project
+# Summary
 
 AI Project: EcoCompass – Smart Personal Carbon Footprint Tracker
 Idea in a Nutshell
